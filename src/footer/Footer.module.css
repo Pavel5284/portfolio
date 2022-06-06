@@ -1,0 +1,25 @@
+.footerBlock {
+    height: 100vh;
+    background-color: #a4e9ff;
+}
+.footerContainer {
+    flex-direction: column;
+}
+.title {
+    background-color: #8a88ff;
+}
+.socialItems {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+}
+.socialItem {
+    width: 60px;
+    height: 60px;
+    background-color: #bcb7ff;
+    flex-wrap: wrap;
+}
+.copy{
+    background-color: #8a88ff;
+}
